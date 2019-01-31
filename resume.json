@@ -1,0 +1,160 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "skills": "",
+    "projects": "",
+    "awards": "Certifications"
+  },
+  "basics": {
+    "name": "Martin Fracker, Jr.",
+    "phone": "9796765680",
+    "website": "www.martinfrackerjr.com",
+    "email": "martin.frackerjr@gmail.com",
+    "location": {
+      "address": "College Station, TX"
+    }
+  },
+  "education": [
+    {
+      "location": "College Station, TX",
+      "startDate": "Aug '13",
+      "endDate": "May '17",
+      "institution": "Texas A&M University",
+      "studyType": "BS",
+      "area": "Computer Science"
+    }
+  ],
+  "work": [
+    {
+      "location": "College Station, TX",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "Apr '16",
+      "endDate": "Present",
+      "highlights": [
+        "Gather business requirements from customers and generate technical specifications from them",
+        "Install and administrate cloud infrastructure including Jenkins build server, Azure, and AWS",
+        "Implement technical specifications using various modern web technologies",
+        "Attend and coordinate Agile Scrum events"
+      ],
+      "company": "Improving Enterprises"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Angular",
+        "Vue.js",
+        ".NET Web API",
+        ".NET Core",
+        "Express",
+        null
+      ]
+    },
+    {
+      "keywords": [
+        "Javascript",
+        "C#",
+        "C++",
+        "Rust",
+        "Ruby",
+        "HTML",
+        "CSS",
+        "Less",
+        "Sass",
+        "Pug"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "Azure",
+        "AWS",
+        "Jenkins",
+        "Travis",
+        "Netlify"
+      ],
+      "name": "Other"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "Vue.js",
+        "Express",
+        null,
+        "Pug",
+        "Less",
+        "Netlify"
+      ],
+      "name": "Website for Book",
+      "description": "Developing a marketing website for a client to promote their new book. As a lead full-stack developer, my role was to lead development efforts both on the front-end as well as in integrating with an existing, custom social media platform."
+    },
+    {
+      "name": "Social Media Application",
+      "description": "Working with a client which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer I am working with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, I have improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. I also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
+      "url": "",
+      "keywords": [
+        "Express",
+        "Angular.js",
+        "MongoDB",
+        "Docker",
+        "Elasticsearch",
+        "Sass",
+        "Pug",
+        "AWS",
+        "Travis"
+      ]
+    },
+    {
+      "keywords": [
+        "Angular",
+        "Jenkins",
+        "Sass"
+      ],
+      "name": "Well Execution Planner",
+      "description": "Redesigned the UX, integrated a spotfire dashboard, and added new functionality for client front-end Angular application. As a front-end developer, I worked with Angular 5, Sass, Twitter Bootstrap, and Jenkins."
+    },
+    {
+      "keywords": [
+        ".NET Web API",
+        "AngularJS",
+        "Vue.js",
+        "Angular",
+        ".NET Core",
+        "Jasmine",
+        "Jenkins",
+        "Entity Framework",
+        "Azure"
+      ],
+      "name": "ARM Lenda",
+      "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Set up continuous delivery using Jenkin and Azure, later using Visual Studio Team Services, allowing my team to deploy multiple times per week. Interested in upgrading the tech stack, team looked into Vue.js, Angular, .NET core, and Docker."
+    }
+  ],
+  "awards": [
+    {
+      "title": "PSM I",
+      "date": "Jul 2016",
+      "awarder": "Scrum.org",
+      "summary": "As a Professional Scrum Master, demonstrated a fundamental level of Scrum mastery."
+    },
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "awards",
+    "education"
+  ]
+}
