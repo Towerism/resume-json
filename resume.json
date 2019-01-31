@@ -69,12 +69,15 @@
         "CSS",
         "Less",
         "Sass",
-        "Pug"
+        "Pug",
+        "SQL",
+        "GraphQL"
       ],
       "name": "Languages"
     },
     {
       "keywords": [
+        "Git",
         "Linux",
         "Azure",
         "AWS",
@@ -89,14 +92,20 @@
     {
       "keywords": [
         "Vue.js",
+        "Angular",
+        ".NET Core",
+        "Ruby on Rails",
         "Express",
-        null,
-        "Pug",
-        "Less",
-        "Netlify"
+        "GraphQL",
+        "Netlify",
+        "Travis",
+        "Rust",
+        "Ruby",
+        "Go",
+        "C++"
       ],
-      "name": "Website for Book",
-      "description": "Developing a marketing website for a customer to promote their new book. As a lead full-stack developer, leading development efforts both on the front-end as well as in integrating with an existing, custom social media platform."
+      "name": "Open Source",
+      "description": "Started several small hobby projects to practice and learn new programming languages and frameworks. Additionally contributed to existing projects through submitting and participating in github issues as well as through code contributions."
     },
     {
       "name": "Social Media Application",
