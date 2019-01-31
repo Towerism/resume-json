@@ -50,8 +50,9 @@
       "name": "Frameworks",
       "level": "",
       "keywords": [
-        "Angular",
+        "React",
         "Vue.js",
+        "Angular",
         ".NET Web API",
         ".NET Core",
         "Express",
@@ -131,6 +132,7 @@
     },
     {
       "keywords": [
+        "React",
         "Vue.js",
         "Angular",
         ".NET Core",
