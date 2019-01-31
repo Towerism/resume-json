@@ -96,11 +96,11 @@
         "Netlify"
       ],
       "name": "Website for Book",
-      "description": "Developing a marketing website for a client to promote their new book. As a lead full-stack developer, my role was to lead development efforts both on the front-end as well as in integrating with an existing, custom social media platform."
+      "description": "Developing a marketing website for a customer to promote their new book. As a lead full-stack developer, leading development efforts both on the front-end as well as in integrating with an existing, custom social media platform."
     },
     {
       "name": "Social Media Application",
-      "description": "Working with a client which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer I am working with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, I have improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. I also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
+      "description": "Working with a customer which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer, working with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. Also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
       "url": "",
       "keywords": [
         "Express",
@@ -121,7 +121,7 @@
         "Sass"
       ],
       "name": "Well Execution Planner",
-      "description": "Redesigned the UX, integrated a spotfire dashboard, and added new functionality for client front-end Angular application. As a front-end developer, I worked with Angular 5, Sass, Twitter Bootstrap, and Jenkins."
+      "description": "Redesigned the UX, integrated a spotfire dashboard, and added new functionality for customer front-end Angular application. As a front-end developer, worked with Angular 5, Sass, Twitter Bootstrap, and Jenkins."
     },
     {
       "keywords": [
