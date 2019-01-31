@@ -90,24 +90,6 @@
   ],
   "projects": [
     {
-      "keywords": [
-        "Vue.js",
-        "Angular",
-        ".NET Core",
-        "Ruby on Rails",
-        "Express",
-        "GraphQL",
-        "Netlify",
-        "Travis",
-        "Rust",
-        "Ruby",
-        "Go",
-        "C++"
-      ],
-      "name": "Open Source",
-      "description": "Started several small hobby projects to practice and learn new programming languages and frameworks. Additionally contributed to existing projects through submitting and participating in github issues as well as through code contributions."
-    },
-    {
       "name": "Social Media Application",
       "description": "Working with a customer which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer, working with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. Also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
       "url": "",
@@ -146,6 +128,24 @@
       ],
       "name": "ARM Lenda",
       "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Set up continuous delivery using Jenkin and Azure, later using Visual Studio Team Services, allowing my team to deploy multiple times per week. Interested in upgrading the tech stack, team looked into Vue.js, Angular, .NET core, and Docker."
+    },
+    {
+      "keywords": [
+        "Vue.js",
+        "Angular",
+        ".NET Core",
+        "Ruby on Rails",
+        "Express",
+        "GraphQL",
+        "Netlify",
+        "Travis",
+        "Rust",
+        "Ruby",
+        "Go",
+        "C++"
+      ],
+      "name": "Open Source",
+      "description": "Started several small hobby projects to practice and learn new programming languages and frameworks. Additionally contributed to existing projects through submitting and participating in github issues as well as through code contributions."
     }
   ],
   "awards": [
