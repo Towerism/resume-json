@@ -56,7 +56,11 @@
         ".NET Web API",
         ".NET Core",
         "Express",
-        null
+        "Socket.io",
+        "NUnit",
+        "Jasmine",
+        "Mocha",
+        "AVA"
       ]
     },
     {
@@ -72,6 +76,7 @@
         "Sass",
         "Pug",
         "SQL",
+        "MongoDB",
         "GraphQL"
       ],
       "name": "Languages"
@@ -84,7 +89,9 @@
         "AWS",
         "Jenkins",
         "Travis",
-        "Netlify"
+        "Netlify",
+        "Docker",
+        "Agile Methodologies"
       ],
       "name": "Other"
     }
@@ -97,6 +104,7 @@
       "keywords": [
         "Express",
         "Angular.js",
+        "Mocha",
         "MongoDB",
         "Docker",
         "Elasticsearch",
@@ -120,12 +128,13 @@
         ".NET Web API",
         "AngularJS",
         "Vue.js",
-        "Angular",
         ".NET Core",
         "Jasmine",
         "Jenkins",
-        "Entity Framework",
-        "Azure"
+        "Azure",
+        "Selenium",
+        "Jasmine",
+        "NUnit"
       ],
       "name": "ARM Lenda",
       "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Set up continuous delivery using Jenkin and Azure, later using Visual Studio Team Services, allowing my team to deploy multiple times per week. Interested in upgrading the tech stack, team looked into Vue.js, Angular, .NET core, and Docker."
