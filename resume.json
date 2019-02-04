@@ -32,8 +32,9 @@
       "startDate": "Apr '16",
       "endDate": "Present",
       "highlights": [
+        "Automate clients' business worflows by working with product owner to iterate over application functionality",
         "Gather business requirements from customers and generate technical specifications from them",
-        "Install and administrate cloud infrastructure including Jenkins build server, Azure, and AWS",
+        "Improve team agility and ability to deploy frequently by implementing CI/CD pipeline",
         "Implement technical specifications using various modern web technologies",
         "Attend and coordinate Agile Scrum events"
       ],
