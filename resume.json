@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 9,
+  "selectedTemplate": 8,
   "headings": {
     "skills": "",
     "projects": "",
@@ -11,7 +11,7 @@
     "website": "www.martinfrackerjr.com",
     "email": "martin.frackerjr@gmail.com",
     "location": {
-      "address": "College Station, TX"
+      "address": "Houston, TX"
     }
   },
   "education": [
@@ -26,11 +26,26 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Develop and maintain cross platform applications targeting iOS, Android, and the browser",
+        "Gather business requirements from stakeholders",
+        "Automate and oversee automated CI/CD processes for all software",
+        "Interview potential software engineers",
+        "Manage the software engineering division and ensure software is released on schedule",
+        null
+      ],
+      "company": "Rivalry Technologies, Inc.",
+      "position": "Senior Software Engineer",
+      "location": "Houston, TX",
+      "startDate": "Jul '19",
+      "endDate": "Present"
+    },
+    {
       "location": "College Station, TX",
       "position": "Consultant",
       "website": "",
       "startDate": "Apr '16",
-      "endDate": "Present",
+      "endDate": "Jul '19",
       "highlights": [
         "Automate clients' business worflows by working with product owner to iterate over application functionality",
         "Gather business requirements from customers and generate technical specifications from them",
@@ -39,11 +54,6 @@
         "Attend and coordinate Agile Scrum events"
       ],
       "company": "Improving Enterprises"
-    },
-    {
-      "highlights": [
-        ""
-      ]
     }
   ],
   "skills": [
@@ -99,8 +109,39 @@
   ],
   "projects": [
     {
+      "keywords": [
+        "Vue.js",
+        "Quasar",
+        "Azure DevOps",
+        ".NET Framework",
+        "MSSQL",
+        "Netlify",
+        "Stylus"
+      ],
+      "name": "sEATz",
+      "description": "A suite of cross-platform applications that facilitate the sales and delivery of stadium food to fans. The apps are written in Vue.js and Quasar enabling each app to use its own code base and target iOS, Android, and the web browser simultaneously. As lead developer, was responsible for managing the project as well as automating and overseeing CI/CD processes for not only the apps but also the backend services.",
+      "url": "seatzapp.com"
+    },
+    {
+      "keywords": [
+        "Angular",
+        "Azure"
+      ],
+      "name": "IPSO Offshore",
+      "description": "Contributed to the development of the front-end Angular application utilized by Anadarko Petroleum Company for the purposes of surveillance and optimization of the operations of its offshore assets. Helped the team see value in story pointing enabling the team to provide greater transparency in forecasting team velocity based on empirical data. Added automated process to maintain code-style guidelines promoting greater developer comfort."
+    },
+    {
+      "keywords": [
+        "Vue.js",
+        "Netlify",
+        "Express"
+      ],
+      "name": "Ivo Sites",
+      "description": "Spearheaded the development of three static websites for a customer to promote his brand as well as his new book, 'Love Based Culture.' Integrated with an in-house developed backend to manage the sites' content. Utilized the Nuxt.js Vue meta-framework to build each website rapidly, leveraging the skills of a UX designer to make the websites look beautiful. Hosted all three websites on Netlify to take advantage of all that it had to offer including automated Let's Encrypt and CI/CD."
+    },
+    {
       "name": "Social Media Application",
-      "description": "Working with a customer which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer, working with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. Also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
+      "description": "Worked with a customer which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer, worked with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. Also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
       "url": "",
       "keywords": [
         "Express",
@@ -172,10 +213,10 @@
   "sections": [
     "templates",
     "profile",
+    "education",
     "work",
     "skills",
     "projects",
-    "awards",
-    "education"
+    "awards"
   ]
 }
