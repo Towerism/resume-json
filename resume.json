@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 8,
+  "selectedTemplate": 2,
   "headings": {
     "skills": "",
     "projects": "",
@@ -34,7 +34,7 @@
         "Manage the software engineering division and ensure software is released on schedule",
         null
       ],
-      "company": "Rivalry Technologies, Inc.",
+      "company": "sEATz",
       "position": "Senior Software Engineer",
       "location": "Houston, TX",
       "startDate": "Jul '19",
