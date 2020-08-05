@@ -17,9 +17,9 @@
   "education": [
     {
       "location": "College Station, TX",
-      "startDate": "Aug '13",
-      "endDate": "May '17",
       "institution": "Texas A&M University",
+      "startDate": "",
+      "endDate": "",
       "studyType": "BS",
       "area": "Computer Science"
     }
@@ -27,15 +27,17 @@
   "work": [
     {
       "highlights": [
-        "Develop and maintain cross platform applications targeting iOS, Android, and the browser",
-        "Gather business requirements from stakeholders",
+        "Turned the startup's \"stadium in-seat ordering app\" proof of concept into an iterable MVP",
+        "Developed and maintained cross platform applications targeting iOS, Android, and the browser",
+        "Greenfielded a suite of applications in Vue.js and Quasar to service several stadiums in order to improve the food/beverage ordering process for the fans",
+        "Refactor applications into monorepo to facilitate easier code reuse between them",
+        "Create shared library that allows the applications to easily interface with EPSON thermal receipt printers",
         "Automate and oversee automated CI/CD processes for all software",
-        "Interview potential software engineers",
-        "Manage the software engineering division and ensure software is released on schedule",
-        null
+        "Interview prospective developers",
+        "Supervise all development efforts"
       ],
       "company": "sEATz",
-      "position": "Senior Software Engineer",
+      "position": "Lead Software Engineer",
       "location": "Houston, TX",
       "startDate": "Jul '19",
       "endDate": "Present"
@@ -61,7 +63,6 @@
       "name": "Frameworks",
       "level": "",
       "keywords": [
-        "React",
         "Vue.js",
         "Angular",
         ".NET Web API",
@@ -78,17 +79,11 @@
       "keywords": [
         "Javascript",
         "C#",
-        "C++",
-        "Rust",
-        "Ruby",
         "HTML",
         "CSS",
         "Less",
         "Sass",
-        "Pug",
-        "SQL",
-        "MongoDB",
-        "GraphQL"
+        "MSSQL"
       ],
       "name": "Languages"
     },
@@ -97,7 +92,6 @@
         "Git",
         "Linux",
         "Azure",
-        "AWS",
         "Jenkins",
         "Travis",
         "Netlify",
@@ -113,14 +107,28 @@
         "Vue.js",
         "Quasar",
         "Azure DevOps",
+        "Java",
+        "Objective C",
+        "Swift",
         ".NET Framework",
         "MSSQL",
         "Netlify",
         "Stylus"
       ],
       "name": "sEATz",
-      "description": "A suite of cross-platform applications that facilitate the sales and delivery of stadium food to fans. The apps are written in Vue.js and Quasar enabling each app to use its own code base and target iOS, Android, and the web browser simultaneously. As lead developer, was responsible for managing the project as well as automating and overseeing CI/CD processes for not only the apps but also the backend services.",
-      "url": "seatzapp.com"
+      "description": "A suite of cross-platform applications that facilitate the sales and delivery of stadium food to fans. The apps are written in Vue.js and Quasar enabling each app to use its own code base and target iOS, Android, and the web browser simultaneously. As lead developer, was responsible for leading the development effort as well as automating and overseeing CI/CD processes for not only the apps but also the backend services.",
+      "url": "Seatzapp.com"
+    },
+    {
+      "keywords": [
+        "Netlify",
+        "Vue.js",
+        "Nuxt",
+        "Bukkit/Spigot Plugin Ecosystem"
+      ],
+      "name": "Blueprints Minecraft Server",
+      "url": "Blueprints.gg",
+      "description": "What started out as an endeavor to spend more time with my family quickly turned into a project that has brought together like-minded players from multiple corners of the world. Blueprints is a pet project of mine. It is a network of minecraft servers I designed and developed to provide players the experience of a typical pay-to-win server without the pay-to-win aspect. It has also helped create a small community of amazing individuals who just want to have a good time playing minecraft together."
     },
     {
       "keywords": [
@@ -180,25 +188,6 @@
       ],
       "name": "ARM Lenda",
       "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Set up continuous delivery using Jenkin and Azure, later using Visual Studio Team Services, allowing my team to deploy multiple times per week. Interested in upgrading the tech stack, team looked into Vue.js, Angular, .NET core, and Docker."
-    },
-    {
-      "keywords": [
-        "React",
-        "Vue.js",
-        "Angular",
-        ".NET Core",
-        "Ruby on Rails",
-        "Express",
-        "GraphQL",
-        "Netlify",
-        "Travis",
-        "Rust",
-        "Ruby",
-        "Go",
-        "C++"
-      ],
-      "name": "Open Source",
-      "description": "Started several small hobby projects to practice and learn new programming languages and frameworks. Additionally contributed to existing projects through submitting and participating in github issues as well as through code contributions."
     }
   ],
   "awards": [
