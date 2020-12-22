@@ -18,13 +18,28 @@
     {
       "location": "College Station, TX",
       "institution": "Texas A&M University",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "-",
+      "endDate": "-",
       "studyType": "BS",
       "area": "Computer Science"
     }
   ],
   "work": [
+    {
+      "highlights": [
+        "Full-stack development, frontend-focused",
+        "Angular, .NET, MSSQL",
+        "Discuss and iterate on design and architecture of new features for a Mobile Pool Builder cross-platform application.",
+        "Moved flash-based IP camera live streaming technology to WebRTC",
+        "Refactor code and standardize UI design to improve user experience",
+        "Work remotely and manage own work schedule"
+      ],
+      "company": "Pentair",
+      "position": "Senior Web Developer",
+      "location": "Houston, TX",
+      "startDate": "Sept '20",
+      "endDate": "Present"
+    },
     {
       "highlights": [
         "Turned the startup's \"stadium in-seat ordering app\" proof of concept into an iterable MVP",
@@ -34,13 +49,14 @@
         "Create shared library that allows the applications to easily interface with EPSON thermal receipt printers",
         "Automate and oversee automated CI/CD processes for all software",
         "Interview prospective developers",
+        "Work remotely and manage own work schedule",
         "Supervise all development efforts"
       ],
       "company": "sEATz",
       "position": "Lead Software Engineer",
       "location": "Houston, TX",
       "startDate": "Jul '19",
-      "endDate": "Present"
+      "endDate": "Sept '20"
     },
     {
       "location": "College Station, TX",
@@ -102,6 +118,16 @@
     }
   ],
   "projects": [
+    {
+      "keywords": [
+        ".NET Web API",
+        "Angular",
+        ".NET Core",
+        "Azure"
+      ],
+      "name": "Mobile Pool Builder",
+      "description": "Work remotely in a small team of senior web developers to maintain legacy code while also moving the product forward with new features. The product is a cross-platform application which pool builders can use to manage the people and processes involved in constructing a pool from start to finish."
+    },
     {
       "keywords": [
         "Vue.js",
