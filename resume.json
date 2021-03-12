@@ -27,8 +27,7 @@
   "work": [
     {
       "highlights": [
-        "Full-stack development, frontend-focused",
-        "Angular, .NET, MSSQL",
+        "Angular, Sass, Typescript, Kendo",
         "Discuss and iterate on design and architecture of new features for a Mobile Pool Builder cross-platform application.",
         "Moved flash-based IP camera live streaming technology to WebRTC",
         "Refactor code and standardize UI design to improve user experience",
@@ -42,11 +41,11 @@
     },
     {
       "highlights": [
+	"Vue.js, Vuex, Quasar, Typescript, Stylus",
         "Turned the startup's \"stadium in-seat ordering app\" proof of concept into an iterable MVP",
         "Developed and maintained cross platform applications targeting iOS, Android, and the browser",
         "Greenfielded a suite of applications in Vue.js and Quasar to service several stadiums in order to improve the food/beverage ordering process for the fans",
         "Refactor applications into monorepo to facilitate easier code reuse between them",
-        "Create shared library that allows the applications to easily interface with EPSON thermal receipt printers",
         "Automate and oversee automated CI/CD processes for all software",
         "Interview prospective developers",
         "Work remotely and manage own work schedule",
@@ -60,14 +59,15 @@
     },
     {
       "location": "College Station, TX",
-      "position": "Consultant",
+      "position": "Web Developer",
       "website": "",
       "startDate": "Apr '16",
       "endDate": "Jul '19",
       "highlights": [
-        "Automate clients' business worflows by working with product owner to iterate over application functionality",
+	"Vue.js, Nuxt, Vuex, Node.js, AWS, Angular, Javascript, Typescript, Socket.io",
+        "Worked with several clients as a web developer",
         "Gather business requirements from customers and generate technical specifications from them",
-        "Improve team agility and ability to deploy frequently by implementing CI/CD pipelines",
+        "Collaborate with team to iterate on process improvements",
         "Implement technical specifications using various modern web technologies",
         "Attend and coordinate Agile Scrum events"
       ],
@@ -81,25 +81,20 @@
       "keywords": [
         "Vue.js",
         "Angular",
-        ".NET Web API",
-        ".NET Core",
-        "Express",
+        "Node.js",
         "Socket.io",
-        "NUnit",
         "Jasmine",
-        "Mocha",
-        "AVA"
+        "Mocha"
       ]
     },
     {
       "keywords": [
         "Javascript",
-        "C#",
+        "Typescript",
         "HTML",
         "CSS",
         "Less",
-        "Sass",
-        "MSSQL"
+        "Sass"
       ],
       "name": "Languages"
     },
@@ -107,11 +102,12 @@
       "keywords": [
         "Git",
         "Linux",
+        "AWS",
         "Azure",
         "Jenkins",
         "Travis",
-        "Netlify",
         "Docker",
+        "Netlify",
         "Agile Methodologies"
       ],
       "name": "Other"
@@ -120,10 +116,10 @@
   "projects": [
     {
       "keywords": [
-        ".NET Web API",
         "Angular",
-        ".NET Core",
-        "Azure"
+        "Sass",
+        "Typescript",
+        "Kendo"
       ],
       "name": "Mobile Pool Builder",
       "description": "Work remotely in a small team of senior web developers to maintain legacy code while also moving the product forward with new features. The product is a cross-platform application which pool builders can use to manage the people and processes involved in constructing a pool from start to finish."
@@ -131,14 +127,9 @@
     {
       "keywords": [
         "Vue.js",
+	"Vuex",
         "Quasar",
-        "Azure DevOps",
-        "Java",
-        "Objective C",
-        "Swift",
-        ".NET Framework",
-        "MSSQL",
-        "Netlify",
+        "Typescript",
         "Stylus"
       ],
       "name": "sEATz",
@@ -147,19 +138,8 @@
     },
     {
       "keywords": [
-        "Netlify",
-        "Vue.js",
-        "Nuxt",
-        "Bukkit/Spigot Plugin Ecosystem"
-      ],
-      "name": "Blueprints Minecraft Server",
-      "url": "Blueprints.gg",
-      "description": "What started out as an endeavor to spend more time with my family quickly turned into a project that has brought together like-minded players from multiple corners of the world. Blueprints is a pet project of mine. It is a network of minecraft servers I designed and developed to provide players the experience of a typical pay-to-win server without the pay-to-win aspect. It has also helped create a small community of amazing individuals who just want to have a good time playing minecraft together."
-    },
-    {
-      "keywords": [
         "Angular",
-        "Azure"
+        "Typescript"
       ],
       "name": "IPSO Offshore",
       "description": "Contributed to the development of the front-end Angular application utilized by Anadarko Petroleum Company for the purposes of surveillance and optimization of the operations of its offshore assets. Helped the team see value in story pointing enabling the team to provide greater transparency in forecasting team velocity based on empirical data. Added automated process to maintain code-style guidelines promoting greater developer comfort."
@@ -167,33 +147,33 @@
     {
       "keywords": [
         "Vue.js",
-        "Netlify",
-        "Express"
+	"Vuex",
+	"Nuxt",
+	"Javascript",
+        "Node.js"
       ],
       "name": "Ivo Sites",
-      "description": "Spearheaded the development of three static websites for a customer to promote his brand as well as his new book, 'Love Based Culture.' Integrated with an in-house developed backend to manage the sites' content. Utilized the Nuxt.js Vue meta-framework to build each website rapidly, leveraging the skills of a UX designer to make the websites look beautiful. Hosted all three websites on Netlify to take advantage of all that it had to offer including automated Let's Encrypt and CI/CD."
+      "description": "Spearheaded the development of three static websites for a customer to promote his brand as well as his new book, 'Love Based Culture.' Integrated with an in-house developed backend to manage the sites' content. Utilized the Nuxt.js Vue meta-framework to build each website rapidly, leveraging the skills of a UX designer to make the websites look beautiful. Hosted all three websites on Netlify to take advantage of all that it had to offer including automated Let's Encrypt and CI/CD.",
+      "url": "ivo.com"
     },
     {
       "name": "Social Media Application",
       "description": "Worked with a customer which provides a social media platform to its clients to add features to and stabilize the platform. As a full-stack developer, worked with the MEAN stack as well as Docker and Elasticsearch. Besides adding new features, improved the development process by upgrading the backend from Node 5 to LTS Node 8, streamlining the docker workflow by speeding up the time it takes to start the containers, and dockerizing elasticsearch. Also played a significant role in upgrading from Elasticsearch 2.4 to 5.6.",
       "url": "",
       "keywords": [
-        "Express",
         "Angular.js",
-        "Mocha",
-        "MongoDB",
-        "Docker",
-        "Elasticsearch",
-        "Sass",
-        "Pug",
+        "Node.js",
         "AWS",
-        "Travis"
+	"Javascript",
+        "Mocha",
+        "Sass",
+        "Pug"
       ]
     },
     {
       "keywords": [
         "Angular",
-        "Jenkins",
+        "Typescript",
         "Sass"
       ],
       "name": "Well Execution Planner",
@@ -201,19 +181,13 @@
     },
     {
       "keywords": [
-        ".NET Web API",
         "AngularJS",
         "Vue.js",
-        ".NET Core",
-        "Jasmine",
-        "Jenkins",
-        "Azure",
-        "Selenium",
-        "Jasmine",
-        "NUnit"
+	"Less",
+        "Jasmine"
       ],
       "name": "ARM Lenda",
-      "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Set up continuous delivery using Jenkin and Azure, later using Visual Studio Team Services, allowing my team to deploy multiple times per week. Interested in upgrading the tech stack, team looked into Vue.js, Angular, .NET core, and Docker."
+      "description": "Worked in a cross-functional scrum team to develop a management operations web application for a company which provides risk management solutions for agribusiness. Within the first year in production, closed more than a half-billion dollars’ worth of loans. Spearheaded rewrite from Angular.js to Vue.js."
     }
   ],
   "awards": [
@@ -228,10 +202,10 @@
   "sections": [
     "templates",
     "profile",
-    "education",
     "work",
     "skills",
     "projects",
-    "awards"
+    "awards",
+    "education"
   ]
 }
